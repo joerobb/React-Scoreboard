@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Scoreboard/static/css/main.e46c872e.chunk.css",
+    "main.js": "/React-Scoreboard/static/js/main.af83fc75.chunk.js",
+    "main.js.map": "/React-Scoreboard/static/js/main.af83fc75.chunk.js.map",
+    "runtime-main.js": "/React-Scoreboard/static/js/runtime-main.b1aff3ba.js",
+    "runtime-main.js.map": "/React-Scoreboard/static/js/runtime-main.b1aff3ba.js.map",
+    "static/js/2.900dada2.chunk.js": "/React-Scoreboard/static/js/2.900dada2.chunk.js",
+    "static/js/2.900dada2.chunk.js.map": "/React-Scoreboard/static/js/2.900dada2.chunk.js.map",
+    "index.html": "/React-Scoreboard/index.html",
+    "precache-manifest.055482142efcbe411b7d195cdec6c8c4.js": "/React-Scoreboard/precache-manifest.055482142efcbe411b7d195cdec6c8c4.js",
+    "service-worker.js": "/React-Scoreboard/service-worker.js",
+    "static/css/main.e46c872e.chunk.css.map": "/React-Scoreboard/static/css/main.e46c872e.chunk.css.map",
+    "static/js/2.900dada2.chunk.js.LICENSE": "/React-Scoreboard/static/js/2.900dada2.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1aff3ba.js",
+    "static/js/2.900dada2.chunk.js",
+    "static/css/main.e46c872e.chunk.css",
+    "static/js/main.af83fc75.chunk.js"
+  ]
+}
